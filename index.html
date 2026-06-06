@@ -96,24 +96,27 @@ font-family: 'Inter', sans-serif;    line-height: 2;
         }
 
         .grid { 
-            display: grid; 
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
-            gap: 15px; 
-            margin-top: 30px; 
-        }
+        display: flex; /* تغییر از grid به flex */
+        flex-wrap: wrap; /* برای اینکه در موبایل زیر هم بروند */
+        justify-content: center; /* مرکز‌چین کردنِ دکمه‌ها */
+        gap: 15px; 
+        margin-top: 30px; 
+    }
 
-        .btn { 
-            display: block; 
-            padding: 18px 20px; 
-            background: var(--btn); 
-            color: #fff; 
-            text-decoration: none; 
-            border-radius: 6px; 
-            transition: all 0.4s ease; 
-            text-align: center; 
-            border: 1px solid var(--border); 
-            font-size: 0.95em; 
-        }
+    .btn { 
+        /* اضافه کردنِ عرضِ ثابت برایِ یک‌دست شدن */
+        width: 200px; 
+        display: block; 
+        padding: 18px 20px; 
+        background: var(--btn); 
+        color: #fff; 
+        text-decoration: none; 
+        border-radius: 6px; 
+        transition: all 0.4s ease; 
+        text-align: center; 
+        border: 1px solid var(--border); 
+        font-size: 0.95em; 
+    }
 
         .btn:hover { 
             background: var(--btn-h); 
