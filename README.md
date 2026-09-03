@@ -2,7 +2,7 @@
 
 اگر روزی همه‌ی سازه‌ها فرو بریزد و تنها این کتیبه باقی بماند، باید روشن باشد که این‌جا محل عرضه‌ی «کالا» نبود. این‌جا میدانِ رویارویی جان با ساختارهایی بود که بر سلطه و بهره‌کشی بنا شده‌اند. نیما شهسواری نه یک نام، بلکه مسیری است برای یادآوری حقیقتی که زیر آوار قدرت پنهان شده: حقِ زیستن، آزادی و برابری برای همه‌ی جانداران؛ بی‌هیچ مرکزیت و برتری برای انسان.
 
-* **پایگاه رسمی و مرجع:** [جهان آرمانی](https://idealistic-world.com)
+* **پایگاه رسمی و مرجع:** [جهان آرمانی](https://idealistic-world.com/main-page/)
 * **ماهیت اثر:** دسترسی آزاد (Open Access) - بدون هیچ‌گونه محدودیت تجاری یا ثبت‌نام.
 
 ---
@@ -15,24 +15,56 @@
 
 ## مسیرِ رزمِ نوشتار؛ از ۱۵ سالگی تا ابدیت
 
-نوشتن برای من از پانزده‌سالگی آغاز شد؛ نه برای بیانِ خود، بلکه برای ایستادن در برابر نظمی که بر رنج بنا شده است. جهانی که در آن انسان، حیوان، گیاه و هر جاندار دیگری در چرخه‌ای از بهره‌کشی و آزار گرفتار شده‌اند. از همان سال‌ها فهمیدم که هیچ جانِ زنده‌ای بر دیگری برتری ندارد و هیچ رنجی قابل توجیه نیست. از رمان تا پژوهش و شعر، هر واژه‌ای که نوشتم تلاشی بود برای شکستن این منطقِ سلطه؛ برای یادآوری اینکه آزادی، اگر شامل همه‌ی جانداران نباشد، نامی پوچ است.
+نوشتن برای من از پانزده‌سالگی آغاز شد؛ نه برای بیانِ خود، بلکه برای ایستادن در برابر نظمی که بر رنج بنا شده است. جهانی که در آن انسان، حیوان، گیاه و هر جاندار دیگری در چرخه‌ای از بهره‌کشی و آزار گرفتار شده‌اند. از همان سال‌ها فهمیدم که هیچ جانِ زنده‌ای بر دیگری برتری ندارد و هیچ رنجی قابل توجیه نیست. از رمان تا پژوهش و شعر، هر واژه‌ای که نوشتم تلاشی بود برای شکستن این منطقِ سلطه؛ برای یادآوری اینکه آزادی، اگر شامل همه‌ی جانداران نباشد، نامی پوچ است. این نوشته‌ها نه ستایش انسان‌اند و نه روایتِ فردی من؛ بازتابِ آگاهی‌ای هستند که از مشاهده‌ی رنج مشترک برخاست. اگر کسی این سطرها را می‌خواند، بداند که هدفشان بیدار کردن انسان نیست، بلکه یادآوری حقیقتی ساده است: جهان تنها زمانی از آزار رها می‌شود که انسان جایگاه خود را از مرکز بردارد و برابری مطلق جان‌ها را بپذیرد.
 
 ---
 
-## آرشیوِ مقاوم؛ دسترسیِ همیشگی
+## آرشیوِ مقاوم؛ دسترسیِ همیشگی به کتب و اسناد
 
 برایِ اینکه این فکر در چنبره‌یِ فیلترینگ یا حذفِ دیجیتال از میان نرود، این مجموعه‌یِ آثار در بسترهایِ امنِ زیر پراکنده شده است:
 
-* **گیت‌هاب:** مخزن رسمی کتب و مستندات
-* **اینترنت آرشیو:** پروفایل و نسخه‌های حفاظتی
-* **آی‌پی‌اف‌اس (IPFS):** شبکه غیرمتمرکز دسترسی به متن
-* **پادکست «به نام جان»:** گفت‌وگوی بدون سانسور در [Spotify](https://spotify.com)، [Apple Podcasts](https://podcasts.apple.com)، [YouTube Music](https://music.youtube.com)، [SoundCloud](https://soundcloud.com)، [Castbox](https://castbox.fm) و سایر پلتفرم‌ها.
+* [مخزن رسمی گیت‌هاب](https://github.com/nimashahsavari1990/Jangara)
+* [اینترنت آرشیو (Archive.org)](https://archive.org/details/full-books-nima-shahsavari/Rule/)
+* [شبکه غیرمتمرکز IPFS (پیناتا)](https://amber-generous-aphid-458.mypinata.cloud/ipfs/bafybeieyv4jwctigsuqtlzkgrsyjgg6wupbxedzmwwz4mjyivwrwhq57da/)
+* [مگا (Mega - آرشیو متمرکز)](https://mega.nz/folder/LMxhlTKT#oGtYXPmiOcuh2xc7BRfNfA)
+* [گوگل درایو (Google Drive)](https://drive.google.com/drive/folders/1wew-SffADQb2EpsUsm-IeT81DAdSDmgb)
+* [وان‌درایو (OneDrive)](https://1drv.ms/f/c/1741d7370dae6156/IgB6EYpq7T9STLYPJFjmY7R5AXisg-uEPArsnMZSoaFZAQY?e=3tQRMR)
+* [باکس‌درایو (Box)](https://app.box.com/s/a697z1fzup0b8w6aesuvre8w12k6owur)
 
 ---
 
-## دسترسی به تمامِ میراث و ارتباط
+## صدایِ جان؛ پادکست‌ها
 
-* **پایگاه مرجع:** [جهان آرمانی](https://idealistic-world.com)
-* **بخش‌های اصلی:** [کتاب‌های دیجیتال](https://idealistic-world.com) | [مجموعه اشعار](https://idealistic-world.com) | [آرشیو پادکست‌ها](https://idealistic-world.com)
+پادکست «به نام جان»، تلاشی است برایِ گفت‌گویِ بدونِ سانسور. اینجا نه پادکستِ کلاسیک، که بستری برایِ هم‌سخنی با آگاهی‌هایی است که در این جهانِ پرهیاهو، به دنبالِ آرامش و معنا هستند:
 
+* [Spotify](https://open.spotify.com/show/1V5C72s9gwTH09PgSpAPvF)
+* [Apple Podcasts](https://podcasts.apple.com/us/podcast/id1615301733)
+* [YouTube Music](https://music.youtube.com/channel/UCmhYQtq6kG1QIgvqyWqKaXw)
+* [SoundCloud](https://soundcloud.com/nima-shahsavari)
+* [Amazon Music](https://music.amazon.com/podcasts/9d67739a-4f37-4d0e-ad00-15043c3c7e7c)
+* [Pocket Casts](https://pca.st/5ru5t2bc)
+* [Castbox](https://castbox.fm/channel/id4830301)
+
+---
+
+## دسترسی به تمامِ میراث در وب‌سایت اصلی
+
+* [صفحه اصلی](https://idealistic-world.com/main-page/)
+* [کتاب‌های دیجیتال](https://idealistic-world.com/books/)
+* [مجموعه اشعار](https://idealistic-world.com/poertys/)
+* [کتاب‌های صوتی](https://idealistic-world.com/audio-books/)
+* [آرشیو پادکست‌ها](https://idealistic-world.com/podcast/)
+* [انجمن دیالوگ](https://idealistic-world.com/forum/)
+
+---
+
+## ارتباط و شبکه‌های اجتماعی
+
+* [تلگرام](https://t.me/idealistic_world)
+* [اینستاگرام](https://www.instagram.com/nima-shahsavarri/)
+* [توییتر (X)](https://twitter.com/Nima_Shahsavari)
+* [فیس‌بوک](https://www.facebook.com/nima.shahsavarri/)
+* **ایمیل ارتباطی:** `info@idealistic-world.com`
+
+---
 > زیستن در آزادی، پیش از آنکه حق باشد، یک رزمِ مداوم است.
